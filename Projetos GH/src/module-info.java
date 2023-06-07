@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author Samsung
- *
- */
-module teste {
-}
